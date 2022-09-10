@@ -14,9 +14,9 @@ Here parameter ‘1,2,3’ are the problem numbers.
 For this you need to build a small application that will solve these 3 problems. As you know,
 now a days everything is about standards. So, we hope to get flavor of OOP/MVC/PSR4 in your
 application. You can build a mini library as well which will resolve the problems for you.
-The folder name of your application should be your full name with “_”.
-Example: “arifur_rahman”.  
-So, if we hit arifur_rahman/solution/1, we should get the solution for Problem-1.  
+The folder name of your application should be your last name “_php_assesment” .
+Example: “reza_php_assesment”.  
+So, if we hit reza_php_assesment/solution/1, we should get the solution for Problem-1.  
 
 
 
